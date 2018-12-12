@@ -1,11 +1,7 @@
 # Website README
 
-The website is very simple.
+The website is very simple and clean.
 
-It consists of a description and 4 QR Codes.
+Contains logos that link to LinkedIn, GitHub, YouTube, and DeviantArt.
 
-QR Codes link to LinkedIn, GitHub, YouTube, and DeviantArt.
-
-QR Codes are also hyperlinks.
-
-Test.
+Logo buttons created in GIMP using the file stored (here)[content/images/ButtonTemplate.xcf].
