@@ -1,0 +1,4 @@
+<h2 class="text">DATE</h2>
+<h2 class = "text">TITLE</h2>
+<p class = "image"><img src="blogimages/IMAGE.png"><p>
+<h3 class = "text">BLOG ENTRY</h3>
