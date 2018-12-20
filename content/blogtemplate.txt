@@ -1,4 +1,4 @@
-<h2 class="text">DATE</h2>
-<h2 class = "text">TITLE</h2>
+<h3 class="text">DATE</h3>
+<h3 class = "text">TITLE</h3>
 <p class = "image"><img src="blogimages/IMAGE.png"><p>
 <p class = "text">BLOG ENTRY</p>
