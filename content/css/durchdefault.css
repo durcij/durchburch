@@ -1,8 +1,9 @@
-body h1, h2, h3 {
+body h1, h2, h3, h4, h5 {
     font-family: 'Montserrat Alternates', sans-serif;
 }
 
 .text {
+  font-family: 'Roboto', sans-serif;
   display: block;
   margin-left: 10%;
   margin-right: 10%;
