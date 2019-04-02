@@ -8,6 +8,10 @@ body h1, h2, h3 {
   color: black;
 }
 
+body a {
+  color: white;
+}
+
 .text {
   display: block;
   margin-left: 10%;
