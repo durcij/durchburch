@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: black;
+  cursor: url("../images/misc/pointerb.png"), auto;
 }
 
 body h1, h2, h3 {
@@ -10,6 +11,7 @@ body h1, h2, h3 {
 
 body a {
   color: white;
+  cursor: url("../images/misc/hyperpointb.png"), auto;
 }
 
 .text {
@@ -25,12 +27,4 @@ body a {
   margin-left: auto;
   margin-right: auto;
   width: auto;
-}
-
-.mainCursor{
-  cursor: url("../images/misc/pointerb.png"), auto;
-}
-
-.hyperCursor{
-  cursor: url("../images/misc/hyperpointb.png"), auto;
 }
