@@ -19,15 +19,20 @@ body a {
   width: auto;
   cursor: url("../images/misc/textpoint.png"), auto;
 }
-.image{
+
+.i
+mage{
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
-  width: auto;
+  widt
+  h: auto;
 }
+
 .mainCursor{
   cursor: url("../images/misc/pointer.png"), auto;
 }
+
 .hyperCursor{
   cursor: url("../images/misc/hyperpoint.png"), auto;
 }
