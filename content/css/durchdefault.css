@@ -1,6 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: #40c3ff;
+  cursor: url("../images/misc/pointer.png"), auto;
 }
 
 body h1, h2, h3, h4, h5 {
@@ -10,24 +11,28 @@ body h1, h2, h3, h4, h5 {
 
 body a {
   color: white;
+  cursor: url("../images/misc/hyperpoint.png"), auto;
+}
+
+footer {
+  bottom: 0;
+}
+
+p {
+  text-align: justify;
 }
 
 .text {
   display: block;
-  margin-left: 10%;
-  margin-right: 10%;
+  padding-left: 25%;
+  padding-right: 25%;
   width: auto;
   cursor: url("../images/misc/textpoint.png"), auto;
 }
-.image{
+
+.image {
   display: inline-block;
   margin-left: auto;
   margin-right: auto;
   width: auto;
-}
-.mainCursor{
-  cursor: url("../images/misc/pointer.png"), auto;
-}
-.hyperCursor{
-  cursor: url("../images/misc/hyperpoint.png"), auto;
 }
