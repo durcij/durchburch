@@ -20,8 +20,8 @@ footer {
 
 .text {
   display: block;
-  padding-left: 15%;
-  padding-right: 15%;
+  padding-left: 12.5%;
+  padding-right: 12.5%;
   width: auto;
   cursor: url("../images/misc/textpointb.png"), auto;
 }
