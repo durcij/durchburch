@@ -18,6 +18,10 @@ footer {
   bottom: 0;
 }
 
+p {
+  padding: 0 15% 0;
+}
+
 .text {
   display: block;
   margin-left: 10%;
