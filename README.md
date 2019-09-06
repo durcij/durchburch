@@ -2,7 +2,7 @@
 
 The website is very simple and clean.
 
-Contains logos that link to LinkedIn, GitHub, YouTube, and DeviantArt, Twitter, and Teespring.  There's also a mailto link to my email account.
+Contains logos that link to LinkedIn, GitHub, YouTube, and DeviantArt, Twitter, Teespring, and Facebook page.
 
 Also contains a blog and a blog archive.
 
