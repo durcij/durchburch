@@ -1116,6 +1116,7 @@ bl@^1.2.3:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/bl/-/bl-1.2.3.tgz#a160911717103c07410cef63ef51b397c025af9c"
   dependencies:
+    "bl": ">=1.2.3"
     readable-stream "^2.3.5"
     safe-buffer "^5.1.1"
 
