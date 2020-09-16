@@ -6972,6 +6972,7 @@ yargs-parser@^13.1.2:
   resolved "https://registry.yarnpkg.com/yargs-parser/-/yargs-parser-13.1.2.tgz#29cceac0dc4f03c6c87b4a9f217dd18c9f74871c"
   dependencies:
     camelcase "^3.0.0"
+    "yargs-parser": ">=13.1.2"
 
 yargs@6.4.0:
   version "6.4.0"
