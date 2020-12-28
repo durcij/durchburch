@@ -3,7 +3,8 @@ body {
   color: #40c3ff;
   cursor: url("../images/misc/pointer.png"), auto;
   width: 75%;
-  align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 body h1, h2, h3, h4, h5 {
