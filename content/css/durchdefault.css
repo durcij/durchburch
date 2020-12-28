@@ -40,8 +40,8 @@ p {
 
 .image {
   display: inline-block;
+  width: 75%;
   margin-left: auto;
   margin-right: auto;
-  width: auto;
   text-align: center;
 }
