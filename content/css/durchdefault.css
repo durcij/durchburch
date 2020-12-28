@@ -2,7 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #40c3ff;
   cursor: url("../images/misc/pointer.png"), auto;
-  width: 100%;
+  width: 75%;
 }
 
 body h1, h2, h3, h4, h5 {
