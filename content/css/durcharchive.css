@@ -1,7 +1,7 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: black;
-  cursor: url("../images/misc/pointerb.png"), auto;
+  cursor: url("/images/misc/pointerb.png"), auto;
 }
 
 body h1, h2, h3 {
@@ -11,7 +11,7 @@ body h1, h2, h3 {
 
 body a {
   color: white;
-  cursor: url("../images/misc/hyperpointb.png"), auto;
+  cursor: url("/images/misc/hyperpointb.png"), auto;
 }
 
 footer {
@@ -31,7 +31,7 @@ header {
   padding-left: 12.5%;
   padding-right: 12.5%;
   width: auto;
-  cursor: url("../images/misc/textpointb.png"), auto;
+  cursor: url("/images/misc/textpointb.png"), auto;
 }
 
 .image{
