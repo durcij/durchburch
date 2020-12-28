@@ -18,6 +18,13 @@ footer {
   bottom: 0;
 }
 
+header {
+  box-shadow: 0 0.15em 0.25em #40c3ff;
+  top: 0;
+  position: fixed;
+  width: 100%
+}
+
 p {
   text-align: justify;
 }
