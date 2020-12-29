@@ -51,7 +51,7 @@ p {
   text-align: center;
 }
 
-@media only screen and (width: 667px) {
+@media only screen and (min-width: 667px) {
   .face {
     size: 500px;
   }
