@@ -53,12 +53,12 @@ p {
 
 @media only screen and (max-width: 667px) {
   .face {
-    size: 75%;
+    width: 75%;
   }
 }
 
 @media only screen and (min-width: 667px) {
   .face {
-    size: 500px;
+    width: 500px;
   }
 }
