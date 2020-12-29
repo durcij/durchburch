@@ -1,7 +1,8 @@
 body {
   font-family: 'Roboto', sans-serif;
   color: black;
-  cursor: url("../images/misc/pointerb.png"), auto;
+  cursor: url("/images/misc/pointerb.png"), auto;
+  padding-top: 3em;
 }
 
 body h1, h2, h3 {
@@ -11,11 +12,23 @@ body h1, h2, h3 {
 
 body a {
   color: white;
-  cursor: url("../images/misc/hyperpointb.png"), auto;
+  cursor: url("/images/misc/hyperpointb.png"), auto;
 }
 
 footer {
   bottom: 0;
+}
+
+header {
+  font-size: 125%;
+  background-color: #3f00bf;
+  box-shadow: 0 0.15em 0.25em black;
+  top: 0;
+  right: 0;
+  position: fixed;
+  width: 100%;
+  height: 2em;
+  padding-top: .75em;
 }
 
 .text {
@@ -23,7 +36,7 @@ footer {
   padding-left: 12.5%;
   padding-right: 12.5%;
   width: auto;
-  cursor: url("../images/misc/textpointb.png"), auto;
+  cursor: url("/images/misc/textpointb.png"), auto;
 }
 
 .image{
