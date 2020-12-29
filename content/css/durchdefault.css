@@ -2,6 +2,7 @@ body {
   font-family: 'Roboto', sans-serif;
   color: #40c3ff;
   cursor: url("/images/misc/pointer.png"), auto;
+  padding-top: 3em;
 }
 
 body h1, h2, h3, h4, h5 {
@@ -24,7 +25,8 @@ header {
   top: 0;
   right: 0;
   position: fixed;
-  width: 100%
+  width: 100%;
+  height: 2em;
 }
 
 p {
