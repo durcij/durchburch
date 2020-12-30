@@ -45,3 +45,56 @@ header {
   margin-right: auto;
   width: auto;
 }
+
+.bottomnav {
+  height:  1em;
+  background-size: 100%;
+}
+
+.navd {
+  background-image: url("/images/bottomnav/DNormal.png")
+}
+
+.navd:hover {
+  background-image: url("/images/bottomnav/DActive.png");
+}
+
+.navdcurrent {
+  background-image: url("/images/bottomnav/DCurrent.png")
+}
+
+.navdcurrent:hover {
+  background-image: url("/images/bottomnav/DCurrentActive.png")
+}
+
+.navcircle {
+  background-image: url("/images/bottomnav/CircleNormal.png")
+}
+
+.navcircle:hover {
+  background-image: url("/images/bottomnav/CircleActive.png");
+}
+
+.navcirclecurrent {
+  background-image: url("/images/bottomnav/CircleCurrent.png")
+}
+
+.navcirclecurrent:hover {
+  background-image: url("/images/bottomnav/CircleCurrentActive.png")
+}
+
+.navb {
+  background-image: url("/images/bottomnav/BNormal.png")
+}
+
+.navb:hover {
+  background-image: url("/images/bottomnav/BActive.png");
+}
+
+.navbcurrent {
+  background-image: url("/images/bottomnav/BCurrent.png")
+}
+
+.navbcurrent:hover {
+  background-image: url("/images/bottomnav/BCurrentActive.png")
+}
