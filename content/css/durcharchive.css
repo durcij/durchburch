@@ -33,9 +33,9 @@ header {
 
 .text {
   display: block;
-  padding-left: 12.5%;
-  padding-right: 12.5%;
-  width: auto;
+  width: 75%;
+  margin-left: auto;
+  margin-right: auto;
   cursor: url("/images/misc/textpointb.png"), auto;
 }
 
