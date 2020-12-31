@@ -32,6 +32,7 @@ header {
 }
 
 .text {
+  text-shadow: 0 0 0.25em #000000;
   display: block;
   width: 75%;
   margin-left: auto;
