@@ -36,7 +36,7 @@ p {
 }
 
 .text {
-  text-shadow: 0 0 0.5em #000000;
+  text-shadow: 0 0 0.1em #000000;
   display: block;
   width: 75%;
   margin-left: auto;
