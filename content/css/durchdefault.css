@@ -119,6 +119,7 @@ p {
 
 .logobutton {
   width: 128px;
+  background-size: 100%;
 }
 
 .linkedin {
