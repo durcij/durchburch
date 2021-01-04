@@ -116,3 +116,23 @@ p {
 .navbcurrent:hover {
   background-image: url("/images/bottomnav/BCurrentActive.png")
 }
+
+.logobutton {
+  width: 128px;
+}
+
+.linkedin {
+  background-image: url("images/logos/LinkedIn.png")
+}
+
+.linkedin:hover {
+  background-image: url("images/logos/LinkedInActive.png")
+}
+
+.github {
+  background-image: url("images/logos/GitHub.png")
+}
+
+.github:hover {
+  background-image: url("images/logos/GitHubActive.png")
+}
