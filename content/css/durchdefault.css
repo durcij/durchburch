@@ -137,3 +137,51 @@ p {
 .github:hover {
   background-image: url("/images/logos/GitHubActive.png")
 }
+
+.youtube {
+  background-image: url("/images/logos/YouTube.png")
+}
+
+.youtube:hover {
+  background-image: url("/images/logos/YouTubeActive.png")
+}
+
+.facebook {
+  background-image: url("/images/logos/Facebook.png")
+}
+
+.facebook:hover {
+  background-image: url("/images/logos/FacebookActive.png")
+}
+
+.deviantart {
+  background-image: url("/images/logos/DeviantArt.png")
+}
+
+.deviantart:hover {
+  background-image: url("/images/logos/DeviantArtActive.png")
+}
+
+.twitter {
+  background-image: url("/images/logos/Twitter.png")
+}
+
+.twitter:hover {
+  background-image: url("/images/logos/TwitterActive.png")
+}
+
+.teespring {
+  background-image: url("/images/logos/Teespring.png")
+}
+
+.teespring:hover {
+  background-image: url("/images/logos/TeespringActive.png")
+}
+
+.clothingunrelated {
+  background-image: url("/images/logos/ClothingUnrelated.png")
+}
+
+.clothingunrelated:hover {
+  background-image: url("/images/logos/ClothingUnrelatedActive.png")
+}
