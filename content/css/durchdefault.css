@@ -39,10 +39,6 @@ table {
   width: 75%;
 }
 
-td {
-  align-items: center;
-}
-
 .text {
   text-shadow: 0 0 0.1em #000000;
   display: block;
@@ -198,4 +194,8 @@ td {
   text-shadow: 0 0 0.1em #000000;
   text-align: center;
   cursor: url("/images/misc/textpoint.png"), auto;
+}
+
+.tableimage {
+  align-content: center; 
 }
