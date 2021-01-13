@@ -35,6 +35,10 @@ p {
   text-align: justify;
 }
 
+table {
+  width: 75%;
+}
+
 .text {
   text-shadow: 0 0 0.1em #000000;
   display: block;
