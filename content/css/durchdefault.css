@@ -197,6 +197,5 @@ td {
 .tabletext {
   text-shadow: 0 0 0.1em #000000;
   text-align: center;
-  width: 100%;
   cursor: url("/images/misc/textpoint.png"), auto;
 }
