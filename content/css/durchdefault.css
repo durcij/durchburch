@@ -39,6 +39,10 @@ table {
   width: 75%;
 }
 
+td {
+  align-items: center;
+}
+
 .text {
   text-shadow: 0 0 0.1em #000000;
   display: block;
@@ -188,4 +192,8 @@ table {
 
 .clothingunrelated:hover {
   background-image: url("/images/logos/ClothingUnrelatedActive.png")
+}
+
+.tabletext {
+  text-align: center;
 }
