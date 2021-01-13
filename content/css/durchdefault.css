@@ -37,6 +37,7 @@ p {
 
 table {
   width: 75%;
+  border-spacing: 1.5vw;
 }
 
 .text {
