@@ -39,6 +39,10 @@ table {
   width: 75%;
 }
 
+td {
+  vertical-align: top;
+}
+
 .text {
   text-shadow: 0 0 0.1em #000000;
   display: block;
@@ -188,4 +192,30 @@ table {
 
 .clothingunrelated:hover {
   background-image: url("/images/logos/ClothingUnrelatedActive.png")
+}
+
+.tabletext {
+  text-shadow: 0 0 0.1em #000000;
+  text-align: center;
+  cursor: url("/images/misc/textpoint.png"), auto;
+}
+
+.lefttext {
+  text-align: left;
+}
+
+@media only screen and (orientation: landscape) {
+  .widetext {
+    padding-left: 10em;
+    padding-right: 10em;
+  }
+}
+
+@media only screen and (orientation: portrait) {
+  .widesheet {
+    width: 256px;
+  }
+  .tabletext {
+    font-size: .75rem;
+  }
 }
