@@ -215,6 +215,9 @@ td {
   .widesheet {
     width: 256px;
   }
+  .widebanner {
+    width: 128px;
+  }
   .tabletext {
     font-size: .75rem;
   }
