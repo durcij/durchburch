@@ -199,3 +199,9 @@ table {
 .lefttext {
   text-align: left;
 }
+
+@media only screen and (orientation: portrait) {
+  .widesprite {
+    width: 50%;
+  }
+}
