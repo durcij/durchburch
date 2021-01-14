@@ -195,3 +195,7 @@ table {
   text-align: center;
   cursor: url("/images/misc/textpoint.png"), auto;
 }
+
+.lefttext {
+  text-align: left;
+}
