@@ -201,7 +201,10 @@ table {
 }
 
 @media only screen and (orientation: portrait) {
+  .widesheet {
+    width: 256px;
+  }
   .widesprite {
-    width: 50%;
+    width: 128px;
   }
 }
