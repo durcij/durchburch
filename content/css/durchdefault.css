@@ -39,6 +39,10 @@ table {
   width: 75%;
 }
 
+td {
+  vertical-align: top;
+}
+
 .text {
   text-shadow: 0 0 0.1em #000000;
   display: block;
