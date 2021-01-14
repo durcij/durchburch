@@ -204,7 +204,7 @@ table {
   .widesheet {
     width: 256px;
   }
-  .widesprite {
-    width: 128px;
+  .widetext {
+    font-size: .5rem;
   }
 }
