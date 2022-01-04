@@ -1,7 +1,7 @@
 <div>
   <h3 class="text">DATE</h3>
   <h3 class = "text">TITLE</h3>
-  <i class = "window-wrapper"><img src="blogimages/IMAGE.png"></i>
+  <p class = "window-wrapper"><img src="blogimages/IMAGE.png"></p>
   <p class = "text">BLOG ENTRY</p>
-  <i class = "window-wrapper"><img src="blogimages/IMAGEend.png"></i>
+  <p class = "window-wrapper"><img src="blogimages/IMAGEend.png"></p>
 </div>
