@@ -222,4 +222,7 @@ td {
   .tabletext {
     font-size: .75rem;
   }
+  .tripletsprite {
+    size:  50%;
+  }
 }
