@@ -222,7 +222,10 @@ td {
   .tabletext {
     font-size: .75rem;
   }
-  .tripletsprite {
-    max-width:  50%;
+  .mobile64x64 {
+    width: 64px;
+  }
+  .mobile80x80{
+    width: 80px;
   }
 }
