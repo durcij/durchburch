@@ -222,4 +222,10 @@ td {
   .tabletext {
     font-size: .75rem;
   }
+  .mobile64x64 {
+    width: 64px;
+  }
+  .mobile80x80{
+    width: 80px;
+  }
 }
