@@ -37,6 +37,7 @@ p {
 
 table {
   width: 75%;
+  table-layout: fixed;
 }
 
 td {
