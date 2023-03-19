@@ -199,6 +199,7 @@ td {
   text-shadow: 0 0 0.1em #000000;
   text-align: center;
   cursor: url("/images/misc/textpoint.png"), auto;
+  padding: 0.5%;
 }
 
 .lefttext {
