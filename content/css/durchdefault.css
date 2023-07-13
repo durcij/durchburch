@@ -179,12 +179,12 @@ td {
   background-image: url("/images/logos/TwitterActive.png")
 }
 
-.teespring {
-  background-image: url("/images/logos/Teespring.png")
+.spring {
+  background-image: url("/images/logos/Spring.png")
 }
 
-.teespring:hover {
-  background-image: url("/images/logos/TeespringActive.png")
+.spring:hover {
+  background-image: url("/images/logos/SpringActive.png")
 }
 
 .clothingunrelated {
@@ -193,6 +193,14 @@ td {
 
 .clothingunrelated:hover {
   background-image: url("/images/logos/ClothingUnrelatedActive.png")
+}
+
+.threads {
+  background-image: url("/images/logos/Threads.png")
+}
+
+.threads:hover {
+  background-image: url("/images/logos/ThreadsActive.png")
 }
 
 .tabletext {
@@ -228,5 +236,8 @@ td {
   }
   .mobile80x80{
     width: 80px;
+  }
+  .logobutton{
+    width: 64px;
   }
 }
