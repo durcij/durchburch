@@ -237,4 +237,7 @@ td {
   .mobile80x80{
     width: 80px;
   }
+  .logobutton{
+    width: 64px;
+  }
 }
