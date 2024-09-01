@@ -203,6 +203,22 @@ td {
   background-image: url("/images/logos/ThreadsActive.png")
 }
 
+.cara {
+  background-image: url("/images/logos/Cara.png")
+}
+
+.cara:hover {
+  background-image: url("/images/logos/CaraActive.png")
+}
+
+.bluesky {
+  background-image: url("/images/logos/Bluesky.png")
+}
+
+.bluesky:hover {
+  background-image: url("/images/logos/BlueskyActive.png")
+}
+
 .tabletext {
   text-shadow: 0 0 0.1em #000000;
   text-align: center;
