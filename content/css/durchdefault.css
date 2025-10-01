@@ -244,6 +244,9 @@ td {
   .widebanner {
     width: 128px;
   }
+  .widedesktop {
+    width: 192px;
+  }
   .tabletext {
     font-size: .75rem;
   }
